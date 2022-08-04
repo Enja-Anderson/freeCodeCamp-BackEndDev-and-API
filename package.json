@@ -3,7 +3,8 @@
 	"version": "1.0.2",
 	"author": "Enja A",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"descrption": "some description should go here",
 	"keywords": ["freecodecamp", "backEndDev"],
