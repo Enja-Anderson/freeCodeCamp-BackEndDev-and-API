@@ -4,7 +4,7 @@
 	"author": "Enja A",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.10.2"
+		"moment": "~2.10.2"
 	},
 	"descrption": "some description should go here",
 	"keywords": ["freecodecamp", "backEndDev"],
